@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 <h1>To-Do-List-Project:</h1>
 <h2>here i create a to do list 📃 </h2>
@@ -12,3 +13,6 @@
 </ul>
 <h1>THANK YOU 💗</h1>
 
+=======
+# To-Do-List-Project 
+>>>>>>> 238be56 (second commit)
